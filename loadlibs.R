@@ -1,0 +1,10 @@
+library(xts)
+library(quantmod) #use getSymbols.yahoo, gets em into default 
+library(vars)
+library(timeSeries)
+library(ggplot2)
+library(scales)
+library(forecast)
+library(R.oo)
+library(urca)
+library(XML)
